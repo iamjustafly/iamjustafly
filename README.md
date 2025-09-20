@@ -34,10 +34,8 @@
 ---
 
 ## 🌍 Contact
-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)] `namon4644`
-- [![Discord Server](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)] [Click here.](https://discord.gg/Fj8GnR4za5)
+- [![Discord Server](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/Fj8GnR4za5)
 -  SpigotMC Forum: [Click here.](https://www.spigotmc.org/members/namon.1130148)
-- 📧 Email: cmecoder@gmail.com  
-
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](cmecoder@gmail.com)
 ---
 ✨ *“Code what you love, love what you code.”* ✨
