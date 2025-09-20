@@ -34,9 +34,9 @@
 ---
 
 ## 🌍 Contact
-- 💬 Discord: `namon4644`
--  . Discord Server: [Click here.](https://discord.gg/Fj8GnR4za5)
--  <i class="fa-solid fa-faucet"></i> SpigotMC Forum: [Click here.](https://www.spigotmc.org/members/namon.1130148)
+- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)] `namon4644`
+- [![Discord Server](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)] [Click here.](https://discord.gg/Fj8GnR4za5)
+-  SpigotMC Forum: [Click here.](https://www.spigotmc.org/members/namon.1130148)
 - 📧 Email: cmecoder@gmail.com  
 
 ---
