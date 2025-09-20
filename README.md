@@ -34,8 +34,8 @@
 ---
 
 ## 🌍 Contact (Click on the icon to navigate there)
-- [![Discord Server](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/Fj8GnR4za5)
-- [![SpigotMC Forum](https://img.shields.io/badge/SpigotMC-orange.svg?logo=spigotmc&logoColor=gold)](https://www.spigotmc.org/members/namon.1130148)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](cmecoder@gmail.com)
+[![Discord Server](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/Fj8GnR4za5)
+[![SpigotMC Forum](https://img.shields.io/badge/SpigotMC-orange.svg?logo=spigotmc&logoColor=gold)](https://www.spigotmc.org/members/namon.1130148)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](cmecoder@gmail.com)
 ---
 ✨ *“Code what you love, love what you code.”* ✨
