@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alex but i prefer using Fly.
+# 👋 Hi, i am Fly!
 
 🎮 Minecraft Plugin Developer | 📚 Coding my way through Java
 
