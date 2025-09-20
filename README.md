@@ -23,7 +23,7 @@
 ---
 
 ## 📦 Featured Projects
-- 🔹 [**Multi World Role Plugin**](https://github.com/iamjustafly/Multi-World-Player-Roles-Plugin) – A plugin that lets you assign different roles to players in each world.
+🔹 [**Multi World Role Plugin**](https://github.com/iamjustafly/Multi-World-Player-Roles-Plugin) – A plugin that lets you assign different roles to players in each world.
 
 ---
 
