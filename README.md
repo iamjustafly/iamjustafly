@@ -23,8 +23,8 @@
 ---
 
 ## 📦 Featured Projects
-🔹 [**Multi World Role Plugin**](https://github.com/iamjustafly/Multi-World-Player-Roles-Plugin) – A plugin that lets you assign different roles to players in each world.
-🔹 [**Multi World Role Plugin**](https://github.com/iamjustafly/HologramTest) – A plugin that lets u create custom Blocks with the existing materials of the game, saving it to a yml file, where you can edit it later.
+🔹 ![**Multi World Role Plugin**](https://github.com/iamjustafly/Multi-World-Player-Roles-Plugin) – A plugin that lets you assign different roles to players in each world.
+🔹 ![**Multi World Role Plugin**](https://github.com/iamjustafly/HologramTest) – A plugin that lets u create custom Blocks with the existing materials of the game, saving it to a yml file, where you can edit it later.
 
 ---
 
